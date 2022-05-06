@@ -1,1 +1,1 @@
-"pring('good')" 
+pring('good')
