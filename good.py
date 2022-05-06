@@ -1,1 +1,1 @@
-pring('good')
+print('good')
